@@ -13,9 +13,6 @@ While some of the examples you see below may not be WTFs in the truest sense, bu
 
 If you're an experienced Python programmer, you can take it as a challenge to get most of them right in first attempt. You may be already familiar with some of these examples, and I might be able to revive sweet old memories of yours being bitten by these gotchas :sweat_smile:
 
-PS: If you're a returning reader, you can learn about the new modifications [here](https://github.com/satwikkansal/wtfpython/releases/).
-
-So, here we go...
 
 # Table of Contents
 
